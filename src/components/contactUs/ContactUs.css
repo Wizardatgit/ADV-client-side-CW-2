@@ -1,0 +1,11 @@
+/* simple css lines */
+
+.contact-us-container{
+    background-color: hsl(180, 43%, 79%);
+    padding-bottom: 20px;
+}
+
+h2{
+    font-weight: bold;
+}
+

@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap'); /* poppins import */
+/* for all */
+*{
+  font-family: 'poppins', sans-serif;
+}
+
+/* Styles for the Carousel */
+.carousel {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-weight: bolder;
+  }
+  
+  /* Styles for Our Services  */
+  .container-fluid {
+  
+    padding: 100px 0; 
+    margin-bottom:50px ;
+  }
+  
+  h2.text-center {
+    color: #343a40; 
+  }
+  
+
+  
+  p.text-center {
+    font-size: 18px;
+    color: #6c757d; 
+  }
+  
+/* Styles for Our Services cards, h3 and p */
+
+
+.carousel-caption h3 {
+  font-size: 60px; 
+  color: #f9fcff; 
+}
+
+
+.carousel-caption p {
+  color: #ffffff; 
+  font-size: 30px;
+}
+
+  
+ 
+  

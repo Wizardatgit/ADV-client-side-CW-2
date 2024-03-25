@@ -1,0 +1,193 @@
+
+{
+	"properties": [
+        {
+            "id":"prop1",
+			"type":"House",
+            "bedrooms":3,
+			"price":750000,
+			"tenure":"Freehold",
+			"description":"Attractive three bedroom semi-detached family home situated within 0.5 miles of Petts Wood station with fast trains to London and within easy walking distance of local shops, schools, bus routes and National Trust woodland. The property comprises; two receptions, fitted 18'9 x 10'1 kitchen/breakfast room and conservatory. The property also benefits from having a utility room and cloakroom. To the first floor there are three bedrooms and a family bathroom with separate WC. Additional features include double glazing, gas central heating and a well presented interior...",
+			"location":"Petts Wood, Orpington",
+			"postal code":"PR5 1LA",
+			"map": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d9958.698470399626!2d0.082084!3d51.390658!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47d8ab82cc8f3cb1%3A0xc746da03b0c6c716!2sPetts%20Wood%20Rd%2C%20Petts%20Wood%2C%20Orpington%2C%20UK!5e0!3m2!1sen!2slk!4v1704863695070!5m2!1sen!2slk",
+			"picture":"images/prop1pic1small.jpg",
+			"url":"properties/prop1.html",
+            "added": {
+                "month":"October",
+                "day":12,
+                "year":2022
+            }
+			,
+            "pictures": [
+                "/images/prop1/p11.jpg",
+                "/images/prop1/p12.jpg",
+                "/images/prop1/p13.jpg",
+				"/images/prop1/p14.jpg",
+                "/images/prop1/p15.jpg",
+                "/images/prop1/p16.jpg"
+            ]
+        },
+		{
+            "id":"prop2",
+			"type":"Flat",
+            "bedrooms":2,
+			"price":399995,
+			"tenure":"Freehold",
+			"description":"Presented in excellent decorative order throughout is this two double bedroom, two bathroom, garden flat. The modern fitted kitchen is open plan to the living room which boasts solid wooden floors and includes integrated appliances including a dishwasher & a washing machine. This large open plan benefits from bi folding doors onto a secluded private courtyard garden. Both bedrooms are double sized, and the family bathroom boasts a matching three piece suite a shower attachment over the bath. There is also a separate wet room. There are walnut doors throughout and wiring for Sky TV/aerial points in the living room/kitchen and both bedrooms.This apartment being only five years old, is still under a 10 year building guarantee...",
+			"location":"Crofton Road Orpington BR6,",
+			"postal code":"BR6 8HD",
+			"map": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d2483.316820887095!2d-0.1303802882195303!3d51.50740331058606!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zNTHCsDMwJzI2LjYiTiAwwrAwNyc0MC4xIlc!5e0!3m2!1sen!2slk!4v1704863907225!5m2!1sen!2slk",
+			"picture":"images/prop2pic1small.jpg",
+			"url":"properties/prop2.html",
+            "added": {
+                "month":"September",
+                "day":14,
+                "year":2022
+            }
+			,
+            "pictures": [
+                "/images/prop2/p21.jpg",
+                "/images/prop2/p22.jpg",
+                "/images/prop2/p23.jpg",
+				"/images/prop2/p24.jpg",
+                "/images/prop2/p25.jpg",
+                "/images/prop2/p26.jpg"
+            ]
+        },
+        {
+			"id": "prop3",
+			"type": "Villa",
+			"bedrooms": 1,
+			"price": 250000,
+			"tenure": "Leasehold",
+			"description": "A stylish one-bedroom apartment with a modern open-plan kitchen and living area. The property features large windows offering plenty of natural light. The bedroom is spacious, and the bathroom is fitted with contemporary fixtures. Conveniently located near public transportation and local amenities.",
+			"location": "New York City Hall, New york",
+			"postal code":"PR5 1LA",
+			"map": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3024.236767522741!2d-74.00858028883297!3d40.71280403744776!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zNDDCsDQyJzQ2LjEiTiA3NMKwMDAnMjEuNiJX!5e0!3m2!1sen!2slk!4v1704864068534!5m2!1sen!2slk",
+			"picture": "images/prop3pic1small.jpg",
+			"url": "properties/prop3.html",
+			"added": {
+				"month": "December",
+				"day": 24,
+				"year": 2023
+			}
+			,
+            "pictures": [
+				"/images/prop3/p31.jpg",
+                "/images/prop3/p32.jpg",
+                "/images/prop3/p33.jpg",
+				"/images/prop3/p34.jpg",
+                "/images/prop3/p35.jpg",
+                "/images/prop3/p36.jpg"
+            ]
+		},{
+			"id": "prop4",
+			"type": "House",
+			"bedrooms": 6,
+			"price": 720000,
+			"tenure": "Freehold",
+			"description": "Step into the warmth of a traditional home! This inviting house features spacious living areas, a fully-equipped kitchen, and comfortable bathrooms. Sunlight graces every corner through generous windows, creating a cozy and welcoming atmosphere. Nestled in a desirable location, this house offers easy access to local conveniences, shopping, and public transportation. Embrace the joys of home in this thoughtfully designed residence where comfort meets practicality. Welcome to a place where lasting memories are made.",
+			"location": "Japan, Tokyo, Shinjuku City.",
+			"postal code":"PR5 1LA",
+			"map": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3240.492172176287!2d139.6891197109257!3d35.689504329406034!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzXCsDQxJzIyLjIiTiAxMznCsDQxJzMwLjEiRQ!5e0!3m2!1sen!2slk!4v1704864172653!5m2!1sen!2slk",
+			"picture": "images/prop4pic1small.jpg",
+			"url": "properties/prop4.html",
+			"added": {
+				"month": "October",
+				"day": 29,
+				"year": 2022
+			}
+			,
+            "pictures": [
+				"/images/prop1/p11.jpg",
+                "/images/prop1/p12.jpg",
+                "/images/prop1/p13.jpg",
+				"/images/prop1/p14.jpg",
+                "/images/prop1/p15.jpg",
+                "/images/prop1/p16.jpg"
+			  ]
+		},{
+			"id": "prop5",
+			"type": "Apartment",
+			"bedrooms": 2,
+			"price": 800000,
+			"tenure": "Leasehold",
+			"description": "Welcome to your urban haven! This apartment offers a stylish living space with a modern kitchen and well-appointed bathroom. Designed for efficiency, the layout maximizes space while providing a contemporary atmosphere. Large windows flood the interior with natural light, creating an inviting ambiance. Located in the heart of convenience, this apartment is near local amenities, shopping, and public transportation. Embrace the urban lifestyle with comfort in this well-crafted and conveniently situated apartment.",
+			"location": "Centro, Rio de Janeiro",
+			"postal code":"PR5 1LA",
+			"map": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3675.1782577443396!2d-43.175480289357715!3d-22.906795037784384!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMjLCsDU0JzI0LjUiUyA0M8KwMTAnMjIuNCJX!5e0!3m2!1sen!2slk!4v1704864361491!5m2!1sen!2slk",
+			"picture": "images/prop5pic1small.jpg",
+			"url": "properties/prop5.html",
+			"added": {
+				"month": "November",
+				"day": 10,
+				"year": 2019
+			}
+			,
+            "pictures": [
+				"/images/prop1/p11.jpg",
+                "/images/prop1/p12.jpg",
+                "/images/prop1/p13.jpg",
+				"/images/prop1/p14.jpg",
+                "/images/prop1/p15.jpg",
+                "/images/prop1/p16.jpg"
+			  ]
+
+        },{
+			"id": "prop6",
+			"type": "House",
+			"bedrooms": 3,
+			"price": 105000,
+			"tenure": "Freehold",
+			"description": "Welcome home to a classic residence! This comfortable house boasts a timeless design with spacious living areas, a well-equipped kitchen, and inviting bathrooms. Enjoy the warmth of abundant natural light streaming through sizable windows. Ideally situated near local conveniences, shopping, and public transport, this home offers a perfect blend of comfort and accessibility. Make cherished memories in this inviting abode, where every detail is crafted for your enjoyment.",
+			"location": "Centro, Rio de Janeiro",
+			"postal code":"PR5 1LA",
+			"map": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3675.1782577443396!2d-43.175480289357715!3d-22.906795037784384!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMjLCsDU0JzI0LjUiUyA0M8KwMTAnMjIuNCJX!5e0!3m2!1sen!2slk!4v1704864361491!5m2!1sen!2slk",
+			"picture": "images/prop6pic1small.jpg",
+			"url": "properties/prop6.html",
+			"added": {
+				"month": "October",
+				"day": 5,
+				"year": 2023
+			}
+			,
+            "pictures": [
+				"/images/prop1/p11.jpg",
+                "/images/prop1/p12.jpg",
+                "/images/prop1/p13.jpg",
+				"/images/prop1/p14.jpg",
+                "/images/prop1/p15.jpg",
+                "/images/prop1/p16.jpg"
+			  ]
+		},{
+			"id": "prop7",
+			"type": "Townhouse",
+			"bedrooms": 2,
+			"price": 165000,
+			"tenure": "Leasehold",
+			"description": "Discover the charm of our townhouse retreat! This inviting space features a cozy studio layout adorned with a contemporary kitchenette and bathroom. The open-plan design optimizes space, while large windows flood the interior with natural light. Nestled in a prime location, this townhouse offers proximity to local amenities, shopping centers, and convenient access to public transportation. Embrace comfort and convenience in this thoughtfully designed townhouse sanctuary.",
+			"location": "Centro, Rio de Janeiro",
+			"postal code":"PR5 1LA",
+			"map": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3675.1782577443396!2d-43.175480289357715!3d-22.906795037784384!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMjLCsDU0JzI0LjUiUyA0M8KwMTAnMjIuNCJX!5e0!3m2!1sen!2slk!4v1704864361491!5m2!1sen!2slk",
+			"picture": "images/prop7pic1small.jpg",
+			"url": "properties/prop7.html",
+			"added": {
+				"month": "December",
+				"day": 31,
+				"year": 2022
+			}
+			,
+            "pictures": [
+				"/images/prop1/p11.jpg",
+                "/images/prop1/p12.jpg",
+                "/images/prop1/p13.jpg",
+				"/images/prop1/p14.jpg",
+                "/images/prop1/p15.jpg",
+                "/images/prop1/p16.jpg"
+			  ]
+		}
+		
+		
+	]
+}

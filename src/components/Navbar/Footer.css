@@ -1,0 +1,21 @@
+/* basic css*/
+
+.footer {
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    background-color: hsla(0, 0%, 75%, 0.267);
+    color: #fff;
+    padding: 10px 0;
+    align-items: center;
+    text-align: center;
+    margin-top: 10px;
+  
+     /* Adjusting styles for smaller screens */
+  }
+  @media (max-width: 767px) {
+   
+    .footer {
+      position: static; /* Change to static for smaller screens */
+    }
+  }

@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+/* styles for services , h2 , lists */
+.services-container {
+    max-width: 800px;
+    margin: 50px auto;
+    padding: 20px;
+    text-align: center;
+    background-color: #f8f9fa;
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+    font-family: 'poppins', sans-serif;
+  }
+  
+  h2 {
+    color: hsl(343, 88%, 52%);
+  }
+  
+  .services-description { 
+    font-size: 18px;
+    line-height: 1.6;
+    margin-bottom: 20px;
+  }
+  
+  .services-list-container { 
+    text-align: center;
+  }
+  
+  .services-list {
+    list-style-type: none;
+    padding: 0;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    column-gap: 20px;
+  }
+  
+  .services-list li { 
+    font-size: 16px;
+    margin-bottom: 10px;
+    background-color: #ffffff;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+  }
+    
+  .services-body {
+    margin: 0;
+    padding: 0;
+    background-image: url('./src/components/services_page/p22.jpg'); 
+    background-size: cover;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    background-position: center;
+    ;
+  }

@@ -1,0 +1,10 @@
+/* simple css */
+
+*{
+    font-family:'poppins', sans-serif;
+}
+
+.bigcontainer{
+    background-color: black;
+
+}
